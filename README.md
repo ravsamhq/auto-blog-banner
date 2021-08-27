@@ -1,4 +1,3 @@
-![Run Bot Workflow](https://github.com/ravsamhq/ravsam-social/workflows/Run%20Bot/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Auto Blog Banner Generator
