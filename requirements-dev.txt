@@ -16,7 +16,7 @@ python-igraph==0.8.2
 six==1.15.0
 texttable==1.6.2
 tinycss2==1.0.2
-toml==0.10.1
+toml==0.10.2
 typed-ast==1.4.1
 webencodings==0.5.1
 wrapt==1.12.1
