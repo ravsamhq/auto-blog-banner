@@ -3,7 +3,7 @@ autopep8==1.5.4
 cairocffi==1.1.0
 CairoSVG==2.7.0
 cffi==1.14.2
-cssselect2==0.3.0
+cssselect2==0.7.0
 defusedxml==0.6.0
 isort==5.5.0
 lazy-object-proxy==1.4.3
