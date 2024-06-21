@@ -1,6 +1,6 @@
 astroid==2.4.2
 autopep8==1.5.4
-cairocffi==1.1.0
+cairocffi==1.7.1
 CairoSVG==2.7.0
 cffi==1.14.2
 cssselect2==0.3.0
